@@ -15,7 +15,8 @@ $$
 
 \fcolorbox{red}{aqua}{$F=ma$}
 
-\colorbox{orange}{Shiva}
+\mathscr{Shiva}
+\tt{Shiva}
 
 $$
   

@@ -12,5 +12,6 @@ $$
 
 $$
 \colorbox{aqua}{$F=ma$}
+\fcolorbox{red}{aqua}{$F=ma$}
 $$
   

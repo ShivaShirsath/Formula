@@ -11,6 +11,6 @@ a^2+b^2=c^2
 $$
 
 $$
-x
-X
+\colorbox{aqua}{$F=ma$}
 $$
+  

@@ -15,7 +15,7 @@ $$
 
 \fcolorbox{red}{aqua}{$F=ma$}
 
-\textcolor{#ff8800}{F=ma}
+\colorbox{orange}{$Shiva$}
 
 $$
   
